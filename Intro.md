@@ -1,5 +1,3 @@
-# LangChain – Beginner Friendly Guide
-
 ## What is LangChain?
 
 LangChain is an open-source framework that helps developers build applications using **Large Language Models (LLMs)** like GPT in a structured and efficient way. Instead of writing single prompts, LangChain allows you to connect models, prompts, memory, and tools into intelligent workflows.
