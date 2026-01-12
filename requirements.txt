@@ -34,6 +34,7 @@ langchain-ollama
 langchain-anthropic
 langchain-huggingface
 langchain-classic
+langchain-groq
 
 # Embeddings & Vector Stores
 chromadb
