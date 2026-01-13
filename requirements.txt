@@ -55,3 +55,7 @@ ipykernel
 # UI
 streamlit
 
+fastapi
+uvicorn
+langserve
+sse_starlette
