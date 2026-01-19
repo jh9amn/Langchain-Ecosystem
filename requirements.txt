@@ -36,6 +36,7 @@ langchain-huggingface
 langchain-classic
 langchain-groq
 
+
 # Embeddings & Vector Stores
 chromadb
 faiss-cpu
